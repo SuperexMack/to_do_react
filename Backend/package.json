@@ -1,0 +1,18 @@
+{
+  "name": "todo-react",
+  "version": "1.0.0",
+  "description": "This project contains a simple to do application it has the following feature :\r 1>here user can sign up.\r 2>here user can sign in.\r 3>here user can create a todo.\r 4>here user can see their existing todo.\r 5>user can mark a to do as done.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2",
+    "zod": "^3.22.4"
+  }
+}
